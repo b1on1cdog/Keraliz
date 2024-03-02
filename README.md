@@ -10,6 +10,6 @@ At 2/3/2024 i haven't tested throughly yet and the code has no dynamic options, 
 I might or i might not make it easy to use for end users, but if you actually have impaired vision and would think this would help you someway, you should let me know to improve the chances i continue working on it.
 
 # To-do
--Dynamically tune the app based on user monitors.
--Adding settings so it could be customized from app side.
--Zooming in/out without being inside the app.
+-Dynamically tune the app based on user monitors.<br />
+-Adding settings so it could be customized from app side.<br />
+-Zooming in/out without being inside the app.<br />
