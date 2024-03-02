@@ -1,0 +1,11 @@
+C:\Users\josue\source\repos\Keraliz\bin\Debug\Keraliz.exe.config
+C:\Users\josue\source\repos\Keraliz\bin\Debug\Keraliz.exe
+C:\Users\josue\source\repos\Keraliz\bin\Debug\Keraliz.pdb
+C:\Users\josue\source\repos\Keraliz\obj\Debug\Keraliz.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\Keraliz\obj\Debug\Keraliz.csproj.SuggestedBindingRedirects.cache
+C:\Users\josue\source\repos\Keraliz\obj\Debug\Keraliz.Properties.Resources.resources
+C:\Users\josue\source\repos\Keraliz\obj\Debug\Keraliz.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\Keraliz\obj\Debug\Keraliz.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\Keraliz\obj\Debug\Keraliz.exe
+C:\Users\josue\source\repos\Keraliz\obj\Debug\Keraliz.pdb
+C:\Users\josue\source\repos\Keraliz\obj\Debug\Keraliz.Keraliz.resources
